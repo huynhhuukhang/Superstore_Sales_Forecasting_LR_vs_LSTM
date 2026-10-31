@@ -1,0 +1,4 @@
+Model,MAE,RMSE
+Single Exponential Smoothing (SES),55955.55926,78399.33487
+Moving Average (MA),57177.40519,78655.31542
+Holt (2 parameters),53738.53817,80091.64583
